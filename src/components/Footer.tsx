@@ -143,7 +143,7 @@ const Footer = () => {
               © {currentYear} MediNova HealthTech. All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground">
-              Built with ❤️ for better healthcare
+              ..
             </p>
           </div>
         </div>
